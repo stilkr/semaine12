@@ -1,0 +1,38 @@
+/* Généralités */
+body {
+margin:auto;
+background-color:rgba(236, 240, 241,1.0);}
+
+h1 {
+color: #d35400;
+font-size:3em;
+font-family: Impact;
+margin:1em;
+text-align:center;
+}
+
+.btn {
+float:right;
+white-space: normal;
+margin-top:1em;}
+
+/* cases */
+
+#c1l1, #c2l1, #c3l1,#c1l2, #c2l2, #c3l2,#c1l3, #c2l3, #c3l3{
+display:inline-block;
+height:10em;
+width:33%;
+border: 1px solid grey;
+margin:0.01em;}
+
+#c1l1:hover, #c2l1:hover, #c3l1:hover, #c1l2:hover, #c2l2:hover, #c3l2:hover,#c1l3:hover, #c2l3:hover, #c3l3:hover{
+background-color:rgba(189, 195, 199,1.0);}
+
+
+.joueur1{
+background: #1abc9c;
+}
+
+.joueur2{
+	background-color:#e74c3c;
+}

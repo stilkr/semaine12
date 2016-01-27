@@ -1,0 +1,29 @@
+/*css autocomplete*/
+
+body {
+width:960px;
+margin:auto;
+background-color: #1abc9c;
+}
+
+h1 {
+text-align:center;
+color: #ecf0f1;
+font-size:2em;
+font-family:Arial;
+font-weight:bolder;
+margin-top:2em;
+margin-bottom:2em;}
+
+input{
+width:100%;
+margin:auto;
+color:#8e44ad;
+}
+
+div{
+color: #ecf0f1;
+font-size:1.5em;
+font-family:Arial;
+font-weight:bolder;
+}
